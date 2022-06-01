@@ -25,18 +25,26 @@
 <img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/CreateARecipeForm.png" width="300" height="580"/>
 <br>
 
-## The Search Bar
-<img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/SearchBar.png" width="300" height="560"/>
-<img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/SearchForEggs.png" width="300" height="560"/>
+## Searching for a Recipe
+<img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/SearchBar.png" width="300" height="580"/>
+<img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/SearchForEggs.png" width="300" height="580"/>
 <br>
 
 ## The Favorites Page
-<img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/FavoritesPage.png" width="300" height="560"/>
+<img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/FavoritesPage.png" width="300" height="580"/>
 <br>
 
 ## The Cookbooks Page
-<img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/CookbooksPage.png" width="300" height="560"/>
-
+<img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/CookbooksPage.png" width="300" height="580"/>
+<img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/BreakfastCookbook.png" width="300" height="580"/>
+<br>
+    
+## Creating a Cookbook
+<img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/CreateACookbookForm.png" width="300" height="580"/>
+<br>
+    
+## Adding a Recipe to a Cookbook
+<img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/AddRecipeToCookbookForm.png" width="300" height="580"/>
 <br>
 
 *Note*: This was a 3 month agile developement project made for GMU's CS321 course in collaboration with Nicholas Thor Page and Joshua Hilbert.
