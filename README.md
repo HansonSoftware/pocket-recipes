@@ -46,6 +46,14 @@
 ## Adding a Recipe to a Cookbook
 <img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/AddRecipeToCookbookForm.png" width="300" height="580"/>
 <br>
+    
+## Grocery List
+<img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/GroceryListFeature.png" width="300" height="580"/>
+<br>
+    
+## Login/Signup
+<img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/UserInfoPage.png" width="300" height="580"/>
+<img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/SignUpPage.png" width="300" height="580"/>
 
 *Note*: This was a 3 month agile developement project made for GMU's CS321 course in collaboration with Nicholas Thor Page and Joshua Hilbert.
 We designed and created this application from scratch.
