@@ -1,5 +1,5 @@
 # Pocket-Recipes
-👨‍🍳 Calling all chefs! Pocket Recipes is a recipe storage application with additional features that make organizing your recipes much easier.
+👨‍🍳 Calling all chefs! Pocket Recipes is a recipe storage application with additional features that make organizing your recipes very easy.
 ## Features
 <ul>
   <li> Login/Signup for personal account
@@ -60,6 +60,8 @@ Likewise, you can also unfavorite a recipe.
 <br>
 
 ## The Cookbooks Page
+Cookbooks are collections of recipes used to help with organization.
+<br>
 <img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/CookbooksPage.png" width="300" height="580"/>
 <img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/BreakfastCookbook.png" width="300" height="580"/>
 <br>
