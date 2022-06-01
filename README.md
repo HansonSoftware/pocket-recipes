@@ -1,5 +1,5 @@
 # Pocket-Recipes
- Recipe Storage Mobile Application built with Flutter and a custom Java Spring-Boot api
+🧑‍🍳 Calling all chefs! Pocket Recipes is a recipe storage application with additional features that are both fun and unique.
 ## The Explore Page
 <img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/ExplorePageNotSignedIn.png" width="300" height="560"/>
 <img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/ExplorePageNotSignedIn2.png" width="300" height="560"/>
