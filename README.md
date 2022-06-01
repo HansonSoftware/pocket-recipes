@@ -16,5 +16,6 @@
 <img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/FavoritesPage.png" width="300" height="560"/>
 
 <br>
+
 *Note*: This was a 3 month agile developement project made for GMU's CS321 course in collaboration with Nicholas Thor Page and Joshua Hilbert.
 We designed and created this application from scratch.
