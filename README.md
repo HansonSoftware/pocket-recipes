@@ -15,6 +15,15 @@
 <img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/ExplorePageNotSignedIn.png" width="300" height="580"/>
 <img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/ExplorePageNotSignedIn2.png" width="300" height="580"/>
 <br>
+    
+## Viewing a Recipe
+<img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/RecipePageView.png" width="300" height="580"/>
+<img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/RecipePageView2.png" width="300" height="580"/>
+<br>
+    
+## Creating a Recipe
+<img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/CreateARecipeForm.png" width="300" height="580"/>
+<br>
 
 ## The Search Bar
 <img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/SearchBar.png" width="300" height="560"/>
