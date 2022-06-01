@@ -23,6 +23,10 @@
 
 ## The Favorites Page
 <img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/FavoritesPage.png" width="300" height="560"/>
+<br>
+
+## The Cookbooks Page
+<img src="https://github.com/HansonSoftware/Pocket-Recipes/blob/main/DemoPhotos/CookbooksPage.png" width="300" height="560"/>
 
 <br>
 
