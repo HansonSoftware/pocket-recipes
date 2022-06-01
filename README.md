@@ -1,5 +1,9 @@
 # Pocket-Recipes
 👨‍🍳 Calling all chefs! Pocket Recipes is a recipe storage application with additional features that make organizing your recipes much easier.
+## Features
+<ul>
+  <li> one
+  <li> two
 
 
 ## The Explore Page
