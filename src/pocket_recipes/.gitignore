@@ -1,0 +1,13 @@
+.dart_tool/
+android/
+build/
+ios/
+web/
+windows/
+
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.analysis_options.iml
+pubspec.lock
+pubspec.yaml
