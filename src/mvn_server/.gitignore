@@ -5,6 +5,8 @@ pom.xml
 target/
 .settings/
 .mvn/
+.mvn
+/.mvn
 
 .classpath
 .factorypath
